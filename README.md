@@ -1,4 +1,4 @@
-# -Collection-of-Problems-Solved
+# Collection-of-Problems-Solved
 This is a repo with problems from either class (algorithms), leetcode, and CLRS.
 
 These is not a project. This was my way of practising and understanding algorithms. 
